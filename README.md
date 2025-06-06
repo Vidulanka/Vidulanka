@@ -4,7 +4,8 @@
 <p align="center">
   <b>Passionate about building robust web and mobile applications with modern technologies.</b>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vidulanka&label=Profile%20views&color=0e75b6&style=flat" alt="imasha19" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vidulanka&label=Profile%20views&color=0e75b6&style=flat" alt="Vidulanka" /> </p>
+
 
 
 ---
