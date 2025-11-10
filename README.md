@@ -1,4 +1,4 @@
-
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">👋 Hi, I'm Pasindu Vidulanka</h1>
 <h2 align="center" style="color:#4DB33D;">Fullstack & MEAN Stack Developer</h2>
 <p align="center">
@@ -81,6 +81,28 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="20"/> **WhatsApp:** [WhatsApp](https://wa.me/94710562397)
 ---
 
+<hr>
+
+<h2 align="center">My status</h2>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=udarasadaruwan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <br></br>
+  <img src="https://streak-stats.demolab.com?user=udarasadaruwan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=udarasadaruwan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<hr>
+
 ## 🏆 Highlights
 
 - **MEAN Stack Specialist** (MongoDB, Express.js, Angular, Node.js)
@@ -90,7 +112,11 @@
 - **Experienced in Android, Flutter, React Native, and cross-platform mobile app development**
 
 ---
+<td width="50%" align="center">
 
+  <img align="center" alt="Coding" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF5bmJ6eXZ1MzhxcmZmczhiZHdlMzYzbHh5YTF3aXpheHR5dTB4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.webp">
+  
+  </td>
 
  <p align="center">
   <i>Always eager to learn new technologies and build impactful applications!</i>
